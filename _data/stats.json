@@ -1,13 +1,13 @@
 {
   "stats_version": "2.1.0",
   "health": {
-    "generated_at": "2026-08-08T15:16:48.482Z",
+    "generated_at": "2026-08-08T15:52:07.898Z",
     "next_refresh_minutes": 30,
     "stale_after_minutes": 90,
     "age_minutes": 0,
     "is_stale": false
   },
-  "generated_at": "2026-08-08T15:16:48.482Z",
+  "generated_at": "2026-08-08T15:52:07.898Z",
   "sources": {
     "youtube_badges": "live",
     "youtube_feed": "live",
@@ -19,11 +19,11 @@
     "subscribers": "invalid",
     "views": "invalid",
     "latest_video": {
-      "title": "لما يخلص أكلك في ماينكرافت 🤣#shorts #minecraft #ماين_كرافت",
-      "video_id": "4hftisDs1TU",
-      "url": "https://www.youtube.com/watch?v=4hftisDs1TU",
-      "thumbnail": "https://i.ytimg.com/vi/4hftisDs1TU/hqdefault.jpg",
-      "published_at": "2026-05-19T17:58:58+00:00"
+      "title": "ماين كرافت هاردكور : بث الرجعة",
+      "video_id": "XZfW0LtkTro",
+      "url": "https://www.youtube.com/watch?v=XZfW0LtkTro",
+      "thumbnail": "https://i.ytimg.com/vi/XZfW0LtkTro/hqdefault.jpg",
+      "published_at": "2026-08-08T15:21:54+00:00"
     }
   },
   "discord": {
@@ -31,7 +31,7 @@
     "members_total": null
   },
   "modrinth": {
-    "flowinventory_downloads": 73,
+    "flowinventory_downloads": 78,
     "flowinventory_followers": 2,
     "status": "under_review"
   },
