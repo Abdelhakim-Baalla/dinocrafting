@@ -1,13 +1,13 @@
 {
   "stats_version": "2.1.0",
   "health": {
-    "generated_at": "2026-08-17T11:13:48.345Z",
+    "generated_at": "2026-08-17T11:46:04.605Z",
     "next_refresh_minutes": 30,
     "stale_after_minutes": 90,
     "age_minutes": 0,
     "is_stale": false
   },
-  "generated_at": "2026-08-17T11:13:48.345Z",
+  "generated_at": "2026-08-17T11:46:04.605Z",
   "sources": {
     "youtube_badges": "live",
     "youtube_feed": "live",
@@ -16,8 +16,8 @@
     "blogger_feed": "live"
   },
   "youtube": {
-    "subscribers": "7.2k",
-    "views": "2.5M",
+    "subscribers": "invalid",
+    "views": "invalid",
     "latest_video": {
       "title": "ماين كرافت هاردكور : بث الرجعة",
       "video_id": "XZfW0LtkTro",
